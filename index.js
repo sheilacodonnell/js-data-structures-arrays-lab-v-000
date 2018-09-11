@@ -1,5 +1,4 @@
 const drivers = ["Milo", "Otis", "Garfield"];
 
-drivers.push('Ralph');
 
-drivers;
+const allCats = [...coolCats, 'Garfield'];

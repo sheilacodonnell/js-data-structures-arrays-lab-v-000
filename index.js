@@ -8,6 +8,6 @@ function destructivelyPrependDriver(name) {
   drivers.unshift('Bob')
 }
 
-function destructivelyRemoveLastDriver() {
-  drivers.
+function destructivelyRemoveLastDriver(name) {
+  drivers.pop(name)
 }

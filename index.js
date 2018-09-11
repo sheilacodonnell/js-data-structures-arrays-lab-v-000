@@ -1,3 +1,3 @@
 const drivers = ["Milo", "Otis", "Garfield"];
 
-const destructivelyAppendDriver(name) = superheroes.push('Wonder Woman');
+const destructivelyAppendDriver(name) = drivers.push('Wonder Woman');

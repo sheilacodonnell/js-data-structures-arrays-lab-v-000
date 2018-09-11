@@ -1,4 +1,4 @@
 const drivers = ["Milo", "Otis", "Garfield"];
 
 
-const allCats = [...coolCats, 'Garfield'];
+const destructivelyAppendDriver(name) = [...drivers, 'Ralph'];
